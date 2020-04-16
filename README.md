@@ -109,6 +109,10 @@ commonjs
 
 框架
 
+堆和栈
+
+垃圾回收
+
 ### Typescript
 为什么要使用typescipt
 
